@@ -6,6 +6,6 @@ Folder moru : merupakan folder untuk website
 Folder moderMoru : merupakan folder untuk model pengenalan objek
 
 ## Disclaimer
-"_Project ini masih dalam tahap pengembangan_
+"_Project ini masih dalam tahap pengembangan_"
 
 by Team Code Crafters 
