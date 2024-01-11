@@ -3,7 +3,8 @@ MORU adalah Sistem Pengenalan Objek Mikroorganisme Jamur pada Roti yaitu teknolo
 
 # Keterangan Folder :
 - Folder moru : merupakan folder untuk website 
-- Folder moderMoru : merupakan folder untuk model pengenalan objek
+- Folder modelMoru : merupakan folder untuk model pengenalan objek
+- "_kedepannya ketika model Tensor flow sudah siap akan digabung/dimasukkan kedalam webapp_"
 
 ## Disclaimer
 "_Project ini masih dalam tahap pengembangan_"
