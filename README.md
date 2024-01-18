@@ -8,7 +8,7 @@ MORU adalah Sistem Pengenalan Objek Mikroorganisme Jamur pada Roti yaitu teknolo
 
 # Keterangan Repo :
 - Repo Moru Hackfest : merupakan folder untuk website 
-- Repo Model Tensor Moru : merupakan folder untuk model pengenalan objek [Model-Tensor-Moru](https://github.com/matiassingers/awesome-readme)
+- Repo Model Tensor Moru : merupakan folder untuk model pengenalan objek [Model-Tensor-Moru](https://github.com/Lazuardi-hrp/Model-Tensor-Moru.git)
 - "_Repo ini masih terpisah kedepannya model Tensor flow akan digabung/dimasukkan kedalam webapp_"
 
 ## Disclaimer
