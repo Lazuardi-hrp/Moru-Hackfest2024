@@ -4,7 +4,8 @@ MORU adalah Sistem Pengenalan Objek Mikroorganisme Jamur pada Roti yaitu teknolo
 
 # Tampilan Demo Moru
 
-https://github.com/Lazuardi-hrp/Moru-Hackfest2024/assets/94006487/131f3003-4b1f-4fd9-b6ac-0e4aa23f07f1
+https://github.com/Lazuardi-hrp/Moru-Hackfest2024/assets/94006487/946fb3a2-6415-40da-8d55-dc43f4435316
+
 
 # Keterangan Repo :
 - Repo Moru Hackfest : merupakan folder untuk website 
