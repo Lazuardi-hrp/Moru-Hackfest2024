@@ -30,7 +30,7 @@ const App = () => {
                 <h1 className='title'>REAL TIME OBJECT DETECTION</h1>
               </div>
               <div className='desc'>
-                <p>"Selamat datang di Fitur Deteksi Objek Langsung kami! Saksikan keajaiban teknologi kami dalam mendeteksi jamur pada roti secara real-time. Dengan kecerdasan buatan, nikmati keamanan roti terjamin tanpa kompromi. Mari temukan kemudahan dan ketenangan dalam setiap gigitan roti Anda! 😃😃"</p>
+                <p>"Welcome to our Instant Object Detection feature! Witness the marvel of our technology in real-time mushroom detection on bread. With artificial intelligence, enjoy the assurance of bread safety without compromise. Let's discover the convenience and peace of mind in every bite of your bread! 😃😃"</p>
               </div>
             </Col>
           </Row>
