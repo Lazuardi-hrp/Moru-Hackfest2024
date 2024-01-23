@@ -1,22 +1,22 @@
 # Moru 🍞
-MORU adalah Sistem Pengenalan Objek Mikroorganisme Jamur pada Roti yaitu teknologi yang dikembangkan untuk mendeteksi dan mengidentifikasi jamur mikroorganisme yang mungkin ada pada roti dimana mikroorganisme ini sangat berbahaya untuk kesehatan manusia ketika dikonsumsi. Sistem ini bertujuan untuk meningkatkan kontrol kualitas produk roti, memastikan keamanan pangan, dan mengidentifikasi potensi risiko kesehatan terkait dengan pertumbuhan mikroorganisme tertentu.
+MORU is a Fungal Microorganism Object Detection System on Bread which is a technology developed to detect and identify fungal microorganisms that may be present on bread where these microorganisms are very dangerous for human health when consumed. This system aims to improve quality control of bread products, ensure food safety, and identify potential health risks associated with the growth of certain microorganisms.
 <br>
 
-# Tampilan Demo Moru
+# Moru Demo View
 
 https://github.com/Lazuardi-hrp/Moru-Hackfest2024/assets/94006487/946fb3a2-6415-40da-8d55-dc43f4435316
 
 Link Video Demo MORU :
 [MORU WebApp by Code Crafters - GDSC HackFest Indonesia 2024](https://www.youtube.com/watch?v=ZOhRl2NqOiA)
 
-# Keterangan Repo :
-- Repo Moru Hackfest : merupakan folder untuk website 
+# MORU Demo Video Link :
+- Repo Moru Hackfest: is the folder for the website 
 
 
-- Repo Model Tensor Moru : merupakan folder untuk model pengenalan objek [Model-Tensor-Moru](https://github.com/Lazuardi-hrp/Model-Tensor-Moru.git)
-- "_Repo ini masih terpisah kedepannya model Tensor flow akan digabung/dimasukkan kedalam webapp_"
+- Repo Model Tensor Moru:  is the folder for the object detection model [Model-Tensor-Moru](https://github.com/Lazuardi-hrp/Model-Tensor-Moru.git)
+- "_This repo is still separate in the future the Tensor flow model will be merged/incorporated into the web app._"
 
 ## Disclaimer
-"_Project ini masih dalam tahap pengembangan_"
+"_This project is still under development_"
 
 by Team Code Crafters 
